@@ -1,6 +1,12 @@
 ## :computer: Day 1 :
 :point_right: Basic introduction on .net mvc framework. <br>
-:point_right: List of youtube videos : <br>
+:point_right: Learned the concept of MVC in depth <br>
+```
+Write the overview of MVC architechture ?
+
+```
+
+:point_right: List of youtube videos I saw in day 1 : <br>
 
 <a href="https://www.youtube.com/watch?v=fN0PZMI5VhU&list=PLaFzfwmPR7_JuVN71I9pEpN8JadDTh0rg" target="_blank">
 <img src="https://i.ytimg.com/vi/fN0PZMI5VhU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC4Z--2iWmDFVfIcOJNv3qOuv--gQ" 
@@ -24,6 +30,8 @@ alt="What is Controller in MVC | Controllers in MVC 5" width="200" height="150" 
 
 <a href="https://www.youtube.com/watch?v=Qw3d7xlBM1w&list=PLaFzfwmPR7_JuVN71I9pEpN8JadDTh0rg&index=6" target="_blank">
 <img src="https://i.ytimg.com/vi/Qw3d7xlBM1w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-bq8Bfuq8I53TGk8ONb3NOxX32A" 
+     
+
 alt=" View in MVC 5 application | What is View in MVC |" width="200" height="150" border="10" /></a> 
 
 <a href="https://www.youtube.com/watch?v=MAa10RsSPtA&list=PLaFzfwmPR7_JuVN71I9pEpN8JadDTh0rg&index=7" target="_blank">
