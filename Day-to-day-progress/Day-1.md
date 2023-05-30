@@ -1,6 +1,7 @@
 ## :computer: Day 1 :
-:point_right: Basic introduction on .net mvc framework :
-:point_right: List of youtube videos :
+:point_right: Basic introduction on .net mvc framework. <br>
+:point_right: List of youtube videos : <br>
+
 <a href="https://www.youtube.com/watch?v=fN0PZMI5VhU&list=PLaFzfwmPR7_JuVN71I9pEpN8JadDTh0rg" target="_blank">
 <img src="https://i.ytimg.com/vi/fN0PZMI5VhU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC4Z--2iWmDFVfIcOJNv3qOuv--gQ" 
 alt="What is MVC | What is Asp.Net MVC | What is MVC in .Net | MVC Tutorial for Beginners in .net C#" width="200" height="150" border="10" /></a> 
