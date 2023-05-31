@@ -38,7 +38,7 @@ select * from student;
  
 <!-- Working in MSSQL but wrote MySQL below to highlight the code. -->
  ```MySQL
-  -- Creating store procedures using no parameters :
+  -- Creating stored procedures using no parameters :
   create procedure selectAllStudents 
   as 
   select * from student
@@ -47,7 +47,7 @@ select * from student;
   -- Executing the stored procedure above 
   exec selectAllStudents ;
   
-  -- Creating store procedure using parameters :
+  -- Creating stored procedure using parameters :
   create procedure selectSpecificStudent @stu_ID int, @stu_City varchar(12)
   as
   select * from student where stu_ID = @stu_ID AND stu_City = @stu_City
@@ -55,4 +55,17 @@ select * from student;
   
    -- Executing the stored procedure above
   exec selectSpecificStudent @stu_ID = 1, @stu_City = 'Delhi';  
- ```
+  
+ -- Creating stored procedure using insert command :
+ create procedure spInsertStudentDetails @stu_ID int, @stu_Name varchar(40), @stu_Age int, @stu_City varchar(12)
+ as
+ begin
+ -- set nocount on added to prevent extra result sets from
+ -- interfering with select statements. 
+ set nocount on;
+ insert into student (stu_ID, stu_Name, stu_Age, stu_City)  values(@stu_ID, @stu_Name, @stu_Age, @stu_City)
+ end;
+ 
+ -- Executing the stored procedure above
+ exec spInsertStudentDetails  3, 'Dhyan', 21, 'Agartala';
+'''
