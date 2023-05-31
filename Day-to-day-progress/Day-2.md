@@ -1,6 +1,7 @@
 # :computer:Day-2 :
 
 :point_right: Introduction on Microsoft SQL server. <br>
+:point_right: Learned about various [datatypes in MSSQL](https://www.w3schools.com/sql/sql_datatypes.asp).<br>
 :point_right: Learned few basic commands like create, insert, update, delete :
 
 <!-- Working in MSSQL but wrote MySQL below to highlight the code. -->
