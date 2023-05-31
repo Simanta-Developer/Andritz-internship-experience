@@ -1,1 +1,49 @@
+# :computer:Day-2 :
 
+:point_right: Introduction on Microsoft SQL server. <br>
+:point_right: Learned few basic commands like create, insert, update, delete :
+
+<!-- Working in MSSQL but wrote MySQL below to highlight the code. -->
+
+``` MySQL 
+create database test;
+use test;
+create table student(
+	stu_ID int NOT NULL,
+	stu_Name varchar(40),
+	stu_Age int,
+	stu_City varchar(12),
+	primary key(stu_ID)
+);
+
+insert into student values
+(1, 'Ram', 20, 'Delhi'),
+(2, 'Shyam', 18, 'Bombay'),
+(3, 'Arun', 21, 'Chennai');
+
+select * from student; 
+
+update student 
+set stu_age = 17, stu_City = 'kolkata' 
+where stu_ID = 2 ;
+
+select * from student;
+
+delete from student where stu_ID = 3;
+
+select * from student;
+```
+:point_right: Learned about [stored procedures](https://www.w3schools.com/sql/sql_stored_procedures.asp) :
+ 
+<!-- Working in MSSQL but wrote MySQL below to highlight the code. -->
+ ```MySQL
+  -- Creating store procedures using no parameters :
+  create procedure selectAllStudents 
+  as 
+  select * from student
+  go;
+  -- Executing the stored procedure above 
+  exec selectAllStudents ;
+  -- Creating store procedure using parameters :
+  
+ ```
