@@ -42,8 +42,16 @@ select * from student;
   as 
   select * from student
   go;
+  
   -- Executing the stored procedure above 
   exec selectAllStudents ;
-  -- Creating store procedure using parameters :
   
+  -- Creating store procedure using parameters :
+  create procedure selectSpecificStudent @stu_ID int, @stu_City varchar(12)
+  as
+  select * from student where stu_ID = @stu_ID AND stu_City = @stu_City
+  go
+  
+   -- Executing the stored procedure above
+  exec selectSpecificStudent @stu_ID = 1, @stu_City = 'Delhi';  
  ```
