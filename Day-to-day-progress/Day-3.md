@@ -20,7 +20,7 @@ namespace WebApplication2.Controllers
 }    
 ```
 
-:point_right: Code for controller with parameters
+:point_right: Code for controller with parameters :
 ```c#
 namespace WebApplication2.Controllers
 {
@@ -59,5 +59,10 @@ namespace WebApplication2.Controllers
     }
     
 ```
+:point_right:  Code to add new `view` :
+```#c
+
+```
+
 
 
