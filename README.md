@@ -13,4 +13,5 @@
 |[Day-6](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-6.md)   | Weekend : revision and developing CRUD application   |
 |[Day-7](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-7.md)   | Weekend : revision and developing CRUD application   |
 |[Day-8](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-8.md)   | Learned about bootstrap and terms encountered in CRUD|
-|[Day-9](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-9.md)   |                                                      |
+|[Day-9](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-9.md)   | Done sign-up page for CRUD application and some more important terms |   
+|                                                                                                                     |                                                      |
