@@ -18,3 +18,5 @@
 |[Day-11](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-11.md) | Adding features of update and delete in CRUD app     |
 |[Day-12](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-12.md) | Learning and applying validation checks in CRUD app  |
 |[Day-13](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-13.md) |                                                      |
+|[Day-14](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-14.md) |                                                      |
+|[Day-15](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-15.md) |                                                      |
