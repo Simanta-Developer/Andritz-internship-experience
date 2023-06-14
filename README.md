@@ -20,4 +20,5 @@
 |[Day-13](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-13.md) | Weekend : Revision                                   |
 |[Day-14](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-14.md) | Weekend : Revision                                   |
 |[Day-15](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-15.md) | username already exists validation                   |
-|[Day-16](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-16.md) |                                                      |
+|[Day-16](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-16.md) | Modifying stored procedures and password validation  |
+|[Day-17](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-17.md) |                                                      |
