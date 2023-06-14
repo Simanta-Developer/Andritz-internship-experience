@@ -17,7 +17,7 @@ begin
    where S_ID = @S_ID  
 End 
 ```
-2. In `SignupRepository.cs` file adding UpdateSignupUser function :
+2. In `SignupRepository.cs` file I added UpdateSignupUser function :
 ``` C#
 public bool UpdateSignupUser(SignUpModel objSignUpModel)
 {
@@ -39,7 +39,7 @@ public bool UpdateSignupUser(SignUpModel objSignUpModel)
     }
 }
 ```
-3. Adding action method named EditSgUserDetails inside `Home` controller :
+3. Added action method named EditSgUserDetails inside `Home` controller :
 ``` C#
 // For GET request :
 public ActionResult EditSgUserDetails(int id)
@@ -68,4 +68,57 @@ public ActionResult EditSgUserDetails(int id)
 3. Created a view with the same action method name using edit template. <br>
 
 :point_right: Steps I did follow to add delete features in CRUD application : <br>
+1. Created a stored procedure to run delete query : 
+``` MySQL
+create procedure sp_deletedata
+(
+  @S_ID int
+)
+as
+begin
+delete from tbl_Signup where S_ID = @S_ID 
+end
+```
+2. In `SignupRepository.cs` file I added DeleteSignupUser function :
+``` C#
+public bool DeleteSignupUser(int Id)
+{
+     SqlCommand com = new SqlCommand("sp_deletedata", con);
+
+     com.CommandType = CommandType.StoredProcedure;
+     com.Parameters.AddWithValue("@S_ID", Id);
+
+     con.Open();
+     int i = com.ExecuteNonQuery();
+     con.Close();
+     if (i >= 1)
+     {
+        return true;
+     }
+     else
+     {
+        return false;
+     }            
+}    
+```
+3. Added action method named DeleteSgUserDetails inside `Home` controller :
+``` C#
+public ActionResult DeleteSgUserDetails(int id)
+{
+     try
+     {
+         SignupRepository SgupRepo = new SignupRepository();
+         if (SgupRepo.DeleteSignupUser(id))
+         {
+             ViewBag.AlertMsg = "Employee details deleted successfully";
+
+         }
+         return RedirectToAction("GetAllSignupUser");
+      }
+     catch
+     {
+         return View();
+     }
+}
+```
 
