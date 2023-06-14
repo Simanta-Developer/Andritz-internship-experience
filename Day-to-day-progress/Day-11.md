@@ -65,7 +65,7 @@ public ActionResult EditSgUserDetails(int id)
           }
   }
 ```
-3. Created a view with the same action method name using edit template. <br>
+4. Created a view with the same action method name using edit template. <br>
 
 :point_right: Steps I did follow to add delete features in CRUD application : <br>
 1. Created a stored procedure to run delete query : 
