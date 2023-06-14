@@ -50,8 +50,9 @@ public List<SignUpModel> GetAllSignupUser()
       return SgupList;
 }
 ```
-3. Added action method named `ReadAllSgUser` inside Home controller :
+3. Added action method named `ReadAllSgUser` inside `Home` controller :
 ``` C#
+// Get request to read all user information 
 public ActionResult ReadAllSgUser()
 {
       SignupRepository SgupRepo = new SignupRepository();
