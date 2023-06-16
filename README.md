@@ -22,3 +22,4 @@
 |[Day-15](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-15.md) | Email already exists validation                      |
 |[Day-16](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-16.md) | Modifying stored procedures and password validation  |
 |[Day-17](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-17.md) | Study of SMTP and authenticate users using Mail ID   |
+|[Day-18](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-18.md) |                                                      |
