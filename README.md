@@ -24,3 +24,5 @@
 |[Day-17](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-17.md)| Study of SMTP and authenticate users using Mail ID  |
 |[Day-18](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-18.md)| adding Login page along with its functionalities    |
 |[Day-19](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-19.md)| adding Logout page along with its functionalities   |
+|[Day-20](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-20.md)| Weekend : Revision                                  |
+|[Day-21](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-21.md)| Weekend : Revision                                  |
