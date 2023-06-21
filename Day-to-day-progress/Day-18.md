@@ -40,7 +40,7 @@ namespace ADOproject1.Models
              SignupRepository SgupRepo = new SignupRepository();
                     
              var user = SgupRepo.GetAllSignupUser().Find(u => u.E_mail == lgup.E_mail && u.Password == lgup.Password); // Check whether the email and its corrosponding
-                                                                                                                          password is correct .
+                                                                                                                       //  password is correct .
              if (user != null)   // if user object is found
              {
                  return RedirectToAction("ReadAllSgUser", "Home");
