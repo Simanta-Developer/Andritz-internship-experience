@@ -12,7 +12,7 @@ begin
 select * from tbl_Signup
 end
 ```
-2. In `SignupRepository.cs` file I added UpdateSignupUser function :
+2. In `SignupRepository.cs` file I added `GetAllSignupUser` function :
 ``` C#
 public List<SignUpModel> GetAllSignupUser()
 {
