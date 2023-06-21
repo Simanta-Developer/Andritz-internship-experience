@@ -28,3 +28,4 @@
 |[Day-21](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-21.md)| Weekend : Revision                                  |
 |[Day-22](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-22.md)| Verifying email address                             |
 |[Day-23](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-23.md)|                                                     |
+|[Day-24](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-24.md)|                                                     |
