@@ -27,9 +27,9 @@
 |[Day-20](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-20.md)| Weekend : Revision                                  |
 |[Day-21](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-21.md)| Weekend : Revision                                  |
 |[Day-22](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-22.md)| Importing Excel sheet using EPPLUS library          |
-|[Day-23](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-23.md)|                                                     |
-|[Day-24](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-24.md)|                                                     |
-|[Day-25](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-25.md)|                                                     |
-|[Day-26](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-26.md)|                                                     |
-|[Day-27](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-27.md)|                                                     |
-|[Day-28](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-28.md)|                                                     |
+|[Day-23](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-23.md)| Displaying excel data into database                 |
+|[Day-24](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-24.md)| Adding features for create and view vendor details  |
+|[Day-25](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-25.md)| Adding features for update and delete in vendor list|
+|[Day-26](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-26.md)| Sending Validation Email to confirm vendor payment  |
+|[Day-27](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-27.md)| Weekend : Revision and Access control(User & Admin) |
+|[Day-28](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-28.md)| Weekend : Revision and improving the application    |
