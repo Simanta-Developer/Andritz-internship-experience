@@ -23,7 +23,7 @@
 |[Day-16](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-16.md)| Modifying stored procedures and password validation |
 |[Day-17](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-17.md)| Study of SMTP and authenticate users using Mail ID  |
 |[Day-18](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-18.md)| Adding Login page along with its functionalities    |
-|[Day-19](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-19.md)| Adding Logout page along with its functionalities   |
+|[Day-19](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-19.md)| Adding Logout page and applying Form authentication | 
 |[Day-20](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-20.md)| Weekend : Revision                                  |
 |[Day-21](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-21.md)| Weekend : Revision                                  |
 |[Day-22](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-22.md)| Importing Excel sheet using EPPLUS library          |
