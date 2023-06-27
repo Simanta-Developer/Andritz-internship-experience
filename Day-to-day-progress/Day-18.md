@@ -76,6 +76,17 @@ namespace ADOproject1.Models
     }
 </div>
 ```
-
+:point_right: I also added Session variable to keep a track on whether the user is logged in or not :
+``` C#
+ if (user != null)
+ {
+       Session["IsLoggedIn"] = true;
+       return RedirectToAction("Success", "Home");
+ }
+ else
+ {
+       ViewBag.Message = "Email or Password is incorrect";
+ }
+```
 
  
