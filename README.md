@@ -34,4 +34,4 @@
 |[Day-27](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-27.md)| Weekend : Revision and Access control(User & Admin) |
 |[Day-28](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-28.md)| Weekend : Revision and improving the application    |
 |[Day-29](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-29.md)| Adding searching, fiter functionality in vendor list|
-|[Day-30](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-30.md)|                                                     |   
+|[Day-30](https://github.com/Simanta-Developer/Andritz-internship-experience/blob/main/Day-to-day-progress/Day-30.md)| Conclusion                                                    |   
