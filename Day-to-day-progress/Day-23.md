@@ -1,5 +1,5 @@
 # :computer: Day-23 :
-''' c#
+``` C#
 using OfficeOpenXml; // Include the EPPlus namespace
 
 class Program
@@ -36,4 +36,4 @@ class Program
         Console.WriteLine("Excel data imported successfully!");
     }
 }
-'''
+```
